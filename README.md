@@ -42,9 +42,6 @@ Drowsiness-Detection-System/
 ├── alarm.mp3
 ├── requirements.txt
 ├── README.md
-├── .gitignore
-└── assets/
-    └── screenshots/
 ```
 
 ---
