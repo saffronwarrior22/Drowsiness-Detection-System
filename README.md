@@ -39,6 +39,10 @@ Driver fatigue is one of the leading causes of road accidents. This project aims
 Drowsiness-Detection-System/
 │
 ├── main.py
+├── app.py
+├── index.html
+├── style.css
+├── driver.png
 ├── alarm.mp3
 ├── requirements.txt
 ├── README.md
